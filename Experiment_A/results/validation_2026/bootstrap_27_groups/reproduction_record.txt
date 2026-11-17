@@ -1,0 +1,11 @@
+Experiment A - 45-RNA grouped bootstrap reproduction
+UTC date: 2026-11-17T18:31:56.742125+00:00
+Python: 3.13.18
+NumPy: 2.4.6
+pandas: 2.2.3
+Bootstrap iterations: 5000
+Random seed: 42
+Grouping: 27 supplementary sections
+Scenarios: Keep 7r6q_6; Keep 7u0h_6
+Scope: downstream grouped-bootstrap reproduction only
+Evolutionary-family independence: not established
