@@ -1,126 +1,125 @@
-# Experiment A — Structural Calibration and 45-RNA Sensitivity Analysis
+# Experiment A — RNA Pairing Probability Calibration
 
-**RNA Bioinformatics Project 7 | Université Paris-Saclay**
+**RNA Bioinformatics Project 7 | M2 GENIOMHE-AI | Université Paris-Saclay**
 
-## 1. Objective
+## Overview
 
-This analysis evaluates the calibration of RNA nucleotide pairing probabilities predicted by three RNA secondary-structure methods:
+Experiment A evaluates how well predicted RNA nucleotide pairing probabilities agree with experimentally derived secondary-structure annotations.
 
-- ViennaRNA
-- LinearPartition-V
-- EternaFold
+We compare three RNA secondary-structure prediction methods:
 
-Predicted probabilities are compared with experimentally derived paired/unpaired annotations from RNA structural references.
+- **ViennaRNA**
+- **LinearPartition-V**
+- **EternaFold**
 
-## 2. Dataset Preparation
+The aim is to assess probability calibration, compare model performance, and examine how dataset selection and RNA grouping influence the results.
 
-The structural-reference analysis began with 89 PDB-derived RNA structures.
+## Dataset
 
-After excluding structures containing crossing annotated base pairs, 58 RNAs were retained for the primary calibration analysis.
+The analysis uses structural references from the published Archive-NoFam benchmark.
 
-A 50-RNA subset was subsequently examined to assess potential training-data overlap.
+The dataset was progressively examined through several stages:
 
-A more conservative 45-RNA sensitivity analysis was performed to assess sequence duplication, potential training-related similarity, and conflicting structural annotations.
+| Dataset | Description |
+|---|---|
+| 89 RNAs | Initial PDB-derived structural records |
+| 58 RNAs | Primary analysis after excluding crossing annotated base pairs |
+| 50 RNAs | Subset examined for possible training-data overlap |
+| 45 RNAs | Sensitivity analysis addressing duplication, similarity, and conflicting annotations |
 
-The 45-RNA analysis contains:
+The final 45-RNA sensitivity analysis contains **2,708 nucleotide positions across 27 supplementary-section groups**.
 
-- 45 RNA records
-- 2,708 nucleotide positions
-- 27 supplementary-section groups
+Two alternative versions were evaluated, retaining either `7r6q_6` or `7u0h_6`. These records have identical sequences but different structural annotations.
 
-Two alternative datasets were evaluated, retaining either `7r6q_6` or `7u0h_6`, which have identical sequences but differing structural annotations.
+## Methods
 
-## 3. Calibration Metrics
+Predicted nucleotide pairing probabilities were compared with binary paired/unpaired reference labels.
 
-Three main evaluation metrics were used:
+Calibration was assessed using:
 
-- **Expected Calibration Error (ECE):** Measures the agreement between predicted pairing probabilities and observed pairing frequencies.
-- **Brier score:** Measures mean squared probability prediction error.
-- **Log loss:** Evaluates the probability assigned to observed structural labels.
+- **Expected Calibration Error (ECE)** with 10 equal-width probability bins
+- **Brier score**
+- **Log loss**
 
-ECE was calculated using 10 equal-width probability bins.
+Lower values indicate better performance for all three metrics.
 
-## 4. Statistical Uncertainty
+Statistical uncertainty was assessed using 5,000 paired bootstrap resamples, a fixed random seed of 42, and 95% percentile confidence intervals.
 
-Grouped bootstrap resampling was performed using the 27 supplementary-section labels.
+We compared nucleotide-pooled results with analyses that give supplementary sections equal weight.
 
-The analysis used:
+Additional analyses examined sequence duplication, potential training-data overlap, Rfam matches, alternative structural annotations, and post-hoc calibration using temperature scaling and isotonic regression.
 
-- 5,000 bootstrap resamples
-- Random seed 42
-- Paired resampling across prediction methods
-- 95% percentile confidence intervals
+## Main Results
 
-Both nucleotide-pooled and equal-section-weighted results were examined.
-
-The supplementary-section labels were used as operational grouping units; they have not been confirmed to represent independent evolutionary RNA families.
-
-## 5. Main Findings
-
-EternaFold achieved the lowest nucleotide-pooled ECE, Brier score, and log loss in both 45-RNA sensitivity scenarios.
-
-For the dataset retaining `7r6q_6`:
+For the 45-RNA dataset retaining `7r6q_6`:
 
 | Predictor | ECE | Brier score | Log loss |
 |---|---:|---:|---:|
 | ViennaRNA | 0.1213 | 0.1384 | 0.5203 |
 | LinearPartition-V | 0.1213 | 0.1384 | 0.5176 |
-| EternaFold | 0.0217 | 0.1035 | 0.3374 |
+| EternaFold | **0.0217** | **0.1035** | **0.3374** |
 
-The nucleotide-pooled ECE advantage of EternaFold over ViennaRNA was supported by a positive paired bootstrap interval.
+EternaFold achieved the lowest nucleotide-pooled calibration errors.
 
-However, equal-section-weighted ECE comparisons were less conclusive, with confidence intervals including zero.
+The paired bootstrap supported its nucleotide-pooled ECE advantage over ViennaRNA. However, the equal-section-weighted ECE comparisons were less conclusive, with confidence intervals including zero.
 
-EternaFold showed lower within-section ECE than ViennaRNA in 13 of the 27 supplementary sections.
+EternaFold also had lower within-section ECE than ViennaRNA in 13 of the 27 supplementary sections.
 
-These results indicate that conclusions about calibration depend partly on the unit of analysis and how RNA groups are weighted.
+These findings show that the interpretation of calibration performance depends partly on how RNA observations are weighted and grouped.
 
-## 6. Sensitivity Analyses
+## Repository Structure
 
-The analysis examined:
+- `data/reference_58/` — Reference sequences, labels, and dataset manifest
+- `analysis/45_RNA_bootstrap/` — 45-RNA datasets, grouped bootstrap analysis, and reproduction script
+- `analysis/Rfam/` — Rfam screening scripts and results
+- `analysis/posthoc_calibration/` — Temperature scaling, isotonic regression, and held-out-section calibration analyses
+- `results/` — Prediction outputs, calibration metrics, and sensitivity analyses
+- `figures/` — Reliability diagrams and calibration comparisons
+- `scripts/REPRODUCIBILITY_STATUS.md` — Reproducibility details and known missing components
 
-- Potential training-related sequence similarity
-- Duplicate RNA sequences
-- Conflicting structural annotations
-- Alternative representatives of identical sequences
-- Nucleotide-pooled versus group-weighted evaluation
+## Reproducibility
 
-The exclusions were used to test the robustness of the results and should not be interpreted as confirmed evidence of training-data contamination.
-
-## 7. Reproducibility
-
-The following files support this analysis:
-
-- `45RNA_matched_keep_7r6q_6.csv`
-- `45RNA_matched_keep_7u0h_6.csv`
-- `45RNA_group_bootstrap_per_predictor.csv`
-- `45RNA_group_bootstrap_paired_differences.csv`
-- `45RNA_each_supp_section_metrics.csv`
-- `reproduce_45RNA_grouped_bootstrap.py`
-
-The bootstrap analysis can be reproduced using:
+The 45-RNA grouped bootstrap analysis can be reproduced from the saved prediction and reference data:
 
 ```bash
+cd Experiment_A/analysis/45_RNA_bootstrap
 python reproduce_45RNA_grouped_bootstrap.py
 ```
 
-The script requires Python, NumPy, and pandas.
+This requires Python, NumPy, and pandas.
 
-The script reproduces the grouped-bootstrap result tables from the saved nucleotide-level prediction and reference data. Reproducing the original prediction probabilities requires the separate RNA folding software and structural-reference inputs.
+The post-hoc calibration analysis can be reproduced from the `Experiment_A` directory:
 
-## 8. Limitations
+```bash
+python analysis/posthoc_calibration/reproduce_tasks5_6.py --source results/50_RNAs/ExperimentA_50RNA_matched.csv --output analysis/posthoc_calibration/reproduced
+```
 
-- The structural dataset is relatively small.
-- Supplementary-section groups are not verified independent RNA families.
-- Complete separation from predictor training data has not been established.
-- The 45-RNA subset was developed through exploratory sensitivity analyses.
-- Results depend partly on nucleotide versus group weighting.
-- Structural-reference calibration and chemical-probing association are different evaluation tasks.
+This additionally requires SciPy and scikit-learn.
 
-## 9. Conclusion
+These scripts reproduce selected downstream analyses. Complete reproduction of the original prediction generation requires additional software configurations, original structural inputs, and computational records.
 
-The structural-reference evaluation found that EternaFold had the lowest nucleotide-pooled calibration errors among the three methods on the selected RNA datasets.
+## Limitations
 
-The grouped sensitivity analysis also demonstrated important limitations: the observed advantage was less consistent when supplementary sections were given equal weight.
+The 45-RNA dataset is relatively small and was developed through exploratory sensitivity analyses.
 
-These findings motivate careful reporting of both pooled and group-level calibration performance, together with transparent documentation of sequence exclusions and potential training overlap.
+Although the Rfam screening found no matches passing the model-specific gathering thresholds, this does not establish evolutionary independence.
+
+The 27 supplementary-section labels used for grouped bootstrap and held-out calibration have not been verified as independent evolutionary families. Therefore, these analyses should not be described as fully family-disjoint.
+
+Complete independence from the predictors' training datasets has also not been established.
+
+Finally, experimentally derived structural annotations are imperfect reference labels, and results from this structural-calibration experiment do not directly establish agreement with chemical-probing measurements.
+
+## Conclusion
+
+EternaFold showed the lowest nucleotide-pooled calibration errors among the three evaluated methods on the selected 45-RNA datasets.
+
+However, its advantage was less consistent under equal-section weighting, highlighting the importance of RNA grouping, uncertainty estimation, and transparent dataset selection.
+
+Further validation using independently established RNA group assignments would strengthen the interpretation of these findings.
+
+---
+
+**Project:** RNA Bioinformatics Research Project 7  
+**Institution:** Université Paris-Saclay  
+**Academic year:** 2026–2027
