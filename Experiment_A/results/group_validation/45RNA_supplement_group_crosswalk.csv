@@ -1,0 +1,55 @@
+scenario,supp_section,supp_name,supp_category,n_RNAs,n_nt,RNA_IDs
+Keep 7r6q_6,1.10,Corn aptamer,Aptamers,1,36,5bjo_Y
+Keep 7r6q_6,1.12,Clivia aptamer,Aptamers,2,119,8hze_B; 8hzl_B
+Keep 7r6q_6,1.13,A9g aptamer,Aptamers,1,43,6rti_X
+Keep 7r6q_6,1.14,Beetroot aptamer,Aptamers,2,98,8eyu_B; 8f0n_B
+Keep 7r6q_6,1.16,11F7t aptamer,Aptamers,1,36,5voe_A
+Keep 7r6q_6,1.17,K1 aptamer,Aptamers,1,38,6sy4_C
+Keep 7r6q_6,1.4,Spinach aptamer,Aptamers,2,166,6b14_R; 6b3k_R
+Keep 7r6q_6,1.5,Mango aptamer,Aptamers,6,219,6c65_B; 6e8s_B; 6e8t_D; 6e8u_B; 8u5j_A; 8u5t_A
+Keep 7r6q_6,1.8,Pepper aptamer,Aptamers,1,49,7eoh_A
+Keep 7r6q_6,1.9,Chili aptamer,Aptamers,1,52,7oax_D
+Keep 7r6q_6,2.1,Cas9 guide,CRISPR guides,4,280,6wbr_B; 7el1_B; 8hud_B; 8umf_B
+Keep 7r6q_6,2.3,Cas12 guide,CRISPR guides,1,36,8dc2_B
+Keep 7r6q_6,2.4,Cas13 guide,CRISPR guides,4,219,6aay_B; 6dtd_C; 8ewg_B; 8wcs_G
+Keep 7r6q_6,3.2,CrPV 5’UTR IRES,IRES,1,339,6w2t_A
+Keep 7r6q_6,4.3,Self-alkylating ribozyme,Ribozymes,1,58,6xjq_A
+Keep 7r6q_6,4.4,Diels-Alder ribozyme,Ribozymes,2,62,1ykv_D; 1yls_D
+Keep 7r6q_6,4.5,Methyltransferase ribozyme,Ribozymes,2,113,7dlz_Y; 7v9e_A
+Keep 7r6q_6,5.3,r(AUUCU),Repeats,1,43,5btm_A
+Keep 7r6q_6,6.1,Nanoarchitecture 1,Miscellaneous (synthetic),1,51,7jrr_A
+Keep 7r6q_6,6.2,Nanoarchitecture 2,Miscellaneous (synthetic),1,129,7jrs_A
+Keep 7r6q_6,6.3,Synthetic hairpin,Miscellaneous (synthetic),1,21,6az4_A
+Keep 7r6q_6,6.4,Synthetic tetraloop-tetraloop receptor,Miscellaneous (synthetic),1,95,6dvk_H
+Keep 7r6q_6,6.5,Synthetic G-quadruplex,Miscellaneous (synthetic),1,35,5dea_C
+Keep 7r6q_6,7.2,Structured part of acrIF8-aca2 5’ UTR,Miscellaneous,1,37,8w35_C
+Keep 7r6q_6,7.4,ITS-2,Miscellaneous,1,87,7r6q_6
+Keep 7r6q_6,7.5,ENE,Miscellaneous,3,202,3p22_A; 7jnh_B; 7ljy_B
+Keep 7r6q_6,7.7,SCNMV xrRNA,Miscellaneous,1,45,6d3p_A
+Keep 7u0h_6,1.10,Corn aptamer,Aptamers,1,36,5bjo_Y
+Keep 7u0h_6,1.12,Clivia aptamer,Aptamers,2,119,8hze_B; 8hzl_B
+Keep 7u0h_6,1.13,A9g aptamer,Aptamers,1,43,6rti_X
+Keep 7u0h_6,1.14,Beetroot aptamer,Aptamers,2,98,8eyu_B; 8f0n_B
+Keep 7u0h_6,1.16,11F7t aptamer,Aptamers,1,36,5voe_A
+Keep 7u0h_6,1.17,K1 aptamer,Aptamers,1,38,6sy4_C
+Keep 7u0h_6,1.4,Spinach aptamer,Aptamers,2,166,6b14_R; 6b3k_R
+Keep 7u0h_6,1.5,Mango aptamer,Aptamers,6,219,6c65_B; 6e8s_B; 6e8t_D; 6e8u_B; 8u5j_A; 8u5t_A
+Keep 7u0h_6,1.8,Pepper aptamer,Aptamers,1,49,7eoh_A
+Keep 7u0h_6,1.9,Chili aptamer,Aptamers,1,52,7oax_D
+Keep 7u0h_6,2.1,Cas9 guide,CRISPR guides,4,280,6wbr_B; 7el1_B; 8hud_B; 8umf_B
+Keep 7u0h_6,2.3,Cas12 guide,CRISPR guides,1,36,8dc2_B
+Keep 7u0h_6,2.4,Cas13 guide,CRISPR guides,4,219,6aay_B; 6dtd_C; 8ewg_B; 8wcs_G
+Keep 7u0h_6,3.2,CrPV 5’UTR IRES,IRES,1,339,6w2t_A
+Keep 7u0h_6,4.3,Self-alkylating ribozyme,Ribozymes,1,58,6xjq_A
+Keep 7u0h_6,4.4,Diels-Alder ribozyme,Ribozymes,2,62,1ykv_D; 1yls_D
+Keep 7u0h_6,4.5,Methyltransferase ribozyme,Ribozymes,2,113,7dlz_Y; 7v9e_A
+Keep 7u0h_6,5.3,r(AUUCU),Repeats,1,43,5btm_A
+Keep 7u0h_6,6.1,Nanoarchitecture 1,Miscellaneous (synthetic),1,51,7jrr_A
+Keep 7u0h_6,6.2,Nanoarchitecture 2,Miscellaneous (synthetic),1,129,7jrs_A
+Keep 7u0h_6,6.3,Synthetic hairpin,Miscellaneous (synthetic),1,21,6az4_A
+Keep 7u0h_6,6.4,Synthetic tetraloop-tetraloop receptor,Miscellaneous (synthetic),1,95,6dvk_H
+Keep 7u0h_6,6.5,Synthetic G-quadruplex,Miscellaneous (synthetic),1,35,5dea_C
+Keep 7u0h_6,7.2,Structured part of acrIF8-aca2 5’ UTR,Miscellaneous,1,37,8w35_C
+Keep 7u0h_6,7.4,ITS-2,Miscellaneous,1,87,7u0h_6
+Keep 7u0h_6,7.5,ENE,Miscellaneous,3,202,3p22_A; 7jnh_B; 7ljy_B
+Keep 7u0h_6,7.7,SCNMV xrRNA,Miscellaneous,1,45,6d3p_A
