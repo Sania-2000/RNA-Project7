@@ -1,0 +1,59 @@
+structure_id,supp_section,supp_name,supp_category,in_50,assessment,source_or_reason
+1f1t_A,1.15,Malachite green aptamer,Aptamers,False,excluded: published bpRNA-1m exact overlap,Szikszai et al. 2026 main text and Table S8
+1ykv_D,4.4,Diels-Alder ribozyme,Ribozymes,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+1yls_D,4.4,Diels-Alder ribozyme,Ribozymes,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+3egz_B,1.18,Tetracycline aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+3p22_A,7.5,ENE,Miscellaneous,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+3p22_E,7.5,ENE,Miscellaneous,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+4k27_U,5.2,r(CCUG),Repeats,False,excluded: published bpRNA-1m exact overlap,Szikszai et al. 2026 main text and Table S8
+4pcj_A,5.1,r(CUG),Repeats,False,excluded: published bpRNA-1m exact overlap,Szikszai et al. 2026 main text and Table S8
+4r4v_A,4.2,VS ribozyme,Ribozymes,False,excluded: published bpRNA-1m exact overlap,Szikszai et al. 2026 main text and Table S8
+5bjo_Y,1.10,Corn aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+5btm_A,5.3,r(AUUCU),Repeats,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+5dea_C,6.5,Synthetic G-quadruplex,Miscellaneous (synthetic),True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+5m0h_A,7.6,ASH1 mRNA E3-localization element,Miscellaneous,False,excluded: published bpRNA-1m exact overlap,Szikszai et al. 2026 main text and Table S8
+5voe_A,1.16,11F7t aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6aay_B,2.4,Cas13 guide,CRISPR guides,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6az4_A,6.3,Synthetic hairpin,Miscellaneous (synthetic),True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6b14_R,1.4,Spinach aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6b3k_R,1.4,Spinach aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6c65_B,1.5,Mango aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6d3p_A,7.7,SCNMV xrRNA,Miscellaneous,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6dtd_C,2.4,Cas13 guide,CRISPR guides,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6dvk_H,6.4,Synthetic tetraloop-tetraloop receptor,Miscellaneous (synthetic),True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6e8s_B,1.5,Mango aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6e8t_D,1.5,Mango aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6e8u_B,1.5,Mango aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6rti_X,1.13,A9g aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6sy4_C,1.17,K1 aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6t2c_V,7.8,Influenza B vRNA promoter,Miscellaneous,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6w2t_A,3.2,CrPV 5’UTR IRES,IRES,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6wbr_B,2.1,Cas9 guide,CRISPR guides,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+6xjq_A,4.3,Self-alkylating ribozyme,Ribozymes,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+7dlz_Y,4.5,Methyltransferase ribozyme,Ribozymes,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+7el1_B,2.1,Cas9 guide,CRISPR guides,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+7eoh_A,1.8,Pepper aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+7jnh_B,7.5,ENE,Miscellaneous,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+7jrr_A,6.1,Nanoarchitecture 1,Miscellaneous (synthetic),True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+7jrs_A,6.2,Nanoarchitecture 2,Miscellaneous (synthetic),True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+7ljy_B,7.5,ENE,Miscellaneous,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+7oax_D,1.9,Chili aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+7r6q_6,7.4,ITS-2,Miscellaneous,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+7u0h_6,7.4,ITS-2,Miscellaneous,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+7v9e_A,4.5,Methyltransferase ribozyme,Ribozymes,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8d28_A,1.1,Theophyline aptamer,Aptamers,False,excluded: documented EternaFold training sequence similarity,Szikszai et al. 2026 main text
+8d29_C,1.1,Theophyline aptamer,Aptamers,False,excluded: conservative theophylline-subsection exclusion,Same 1.1 subsection as 8d28_A; not individually demonstrated overlap
+8dc2_B,2.3,Cas12 guide,CRISPR guides,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8dk7_C,1.1,Theophyline aptamer,Aptamers,False,excluded: conservative theophylline-subsection exclusion,Same 1.1 subsection as 8d28_A; not individually demonstrated overlap
+8ewg_B,2.4,Cas13 guide,CRISPR guides,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8eyu_B,1.14,Beetroot aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8f0n_B,1.14,Beetroot aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8hud_B,2.1,Cas9 guide,CRISPR guides,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8hze_B,1.12,Clivia aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8hzj_A,1.12,Clivia aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8hzl_B,1.12,Clivia aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8u5j_A,1.5,Mango aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8u5t_A,1.5,Mango aptamer,Aptamers,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8umf_B,2.1,Cas9 guide,CRISPR guides,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8w35_C,7.2,Structured part of acrIF8-aca2 5’ UTR,Miscellaneous,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate
+8wcs_G,2.4,Cas13 guide,CRISPR guides,True,retained: EternaFold structural/training overlap unresolved,Absence from exact-overlap list is not a training independence certificate

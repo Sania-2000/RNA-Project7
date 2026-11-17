@@ -1,0 +1,9 @@
+structure_A,structure_B,length,hamming_mismatches,section_A,section_B,both_in_50,note
+1ykv_D,1yls_D,31,1,4.4,4.4,1,same-length comparison only; not a homolog search
+3p22_A,3p22_E,40,0,7.5,7.5,1,same-length comparison only; not a homolog search
+6b14_R,6b3k_R,83,2,1.4,1.4,1,same-length comparison only; not a homolog search
+6e8t_D,8u5j_A,36,1,1.5,1.5,1,same-length comparison only; not a homolog search
+7r6q_6,7u0h_6,87,0,7.4,7.4,1,same-length comparison only; not a homolog search
+8d29_C,8dk7_C,34,0,1.1,1.1,0,same-length comparison only; not a homolog search
+8eyu_B,8f0n_B,49,2,1.14,1.14,1,same-length comparison only; not a homolog search
+8hze_B,8hzj_A,35,0,1.12,1.12,1,same-length comparison only; not a homolog search
