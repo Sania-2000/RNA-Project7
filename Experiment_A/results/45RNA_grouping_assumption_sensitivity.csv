@@ -1,0 +1,13 @@
+scenario,grouping,n_groups,estimand,Vienna_minus_Eterna,CI_lower,CI_upper,B,seed
+Keep 7r6q_6,supp_section,27,nucleotide_pooled_ECE,0.099627,0.003652,0.138929,3000,42
+Keep 7r6q_6,supp_section,27,equal_group_mixture_ECE,0.047844,-0.019659,0.088676,3000,42
+Keep 7r6q_6,conservative_CRISPR_merged,25,nucleotide_pooled_ECE,0.099627,0.011638,0.136621,3000,42
+Keep 7r6q_6,conservative_CRISPR_merged,25,equal_group_mixture_ECE,0.044294,-0.02846,0.087155,3000,42
+Keep 7r6q_6,individual_RNA,45,nucleotide_pooled_ECE,0.099627,0.008499,0.134944,3000,42
+Keep 7r6q_6,individual_RNA,45,equal_group_mixture_ECE,0.048941,-0.008996,0.089025,3000,42
+Keep 7u0h_6,supp_section,27,nucleotide_pooled_ECE,0.09815,0.00536,0.136613,3000,42
+Keep 7u0h_6,supp_section,27,equal_group_mixture_ECE,0.049547,-0.018621,0.08773,3000,42
+Keep 7u0h_6,conservative_CRISPR_merged,25,nucleotide_pooled_ECE,0.09815,0.014031,0.133978,3000,42
+Keep 7u0h_6,conservative_CRISPR_merged,25,equal_group_mixture_ECE,0.046133,-0.026198,0.087524,3000,42
+Keep 7u0h_6,individual_RNA,45,nucleotide_pooled_ECE,0.09815,0.010532,0.133271,3000,42
+Keep 7u0h_6,individual_RNA,45,equal_group_mixture_ECE,0.049963,-0.007616,0.088882,3000,42
