@@ -1,0 +1,12 @@
+Experiment A — exploratory 26-group sensitivity analysis
+Dataset: 45 RNA records; 2708 nucleotide positions
+Original groups: 27 supplementary sections
+Alternative groups: 26
+Sections 2.4 and 4.5 were merged because 6aay_B and 7dlz_Y were mapped to RNA3DB component_1.
+This is an operational resampling sensitivity analysis, not verified family-disjoint validation.
+Bootstrap resamples: 5000
+Random seed: 42
+Scenarios: Keep 7r6q_6 and Keep 7u0h_6
+Python version: 3.13.18
+NumPy version: 2.4.6
+pandas version: 2.2.3
