@@ -1,0 +1,11 @@
+qseqid,sseqid,pident,length,qlen,slen,evalue,bitscore,rna_1,rna_2,pair,query_coverage,subject_coverage,section_1,section_2,cross_section
+6b3k_R|section=1.4,6b14_R|section=1.4,97.59,83,83,83,2.86e-38,141.0,6b3k_R,6b14_R,"('6b14_R', '6b3k_R')",1.0,1.0,1.4,1.4,False
+8eyu_B|section=1.14,8f0n_B|section=1.14,95.918,49,49,49,4.48e-20,80.6,8eyu_B,8f0n_B,"('8eyu_B', '8f0n_B')",1.0,1.0,1.14,1.14,False
+6e8t_D|section=1.5,8u5j_A|section=1.5,97.222,36,36,36,2.93e-14,61.7,6e8t_D,8u5j_A,"('6e8t_D', '8u5j_A')",1.0,1.0,1.5,1.5,False
+6e8t_D|section=1.5,6e8s_B|section=1.5,97.059,34,36,38,3.57e-13,58.1,6e8t_D,6e8s_B,"('6e8s_B', '6e8t_D')",0.9444444444444444,0.8947368421052632,1.5,1.5,False
+8u5j_A|section=1.5,6e8s_B|section=1.5,94.118,34,36,38,4.35e-12,53.6,8u5j_A,6e8s_B,"('6e8s_B', '8u5j_A')",0.9444444444444444,0.8947368421052632,1.5,1.5,False
+1ykv_D|section=4.4,1yls_D|section=4.4,96.774,31,31,31,1.23e-11,52.7,1ykv_D,1yls_D,"('1ykv_D', '1yls_D')",1.0,1.0,4.4,4.4,False
+8u5j_A|section=1.5,6e8u_B|section=1.5,91.892,37,36,37,5.3e-11,50.9,8u5j_A,6e8u_B,"('6e8u_B', '8u5j_A')",1.0277777777777777,1.0,1.5,1.5,False
+6e8t_D|section=1.5,6e8u_B|section=1.5,89.189,37,36,37,6.45e-10,46.4,6e8t_D,6e8u_B,"('6e8t_D', '6e8u_B')",1.0277777777777777,1.0,1.5,1.5,False
+8hud_B|section=2.1,7el1_B|section=2.1,85.714,49,52,53,1.22e-08,43.7,8hud_B,7el1_B,"('7el1_B', '8hud_B')",0.9423076923076923,0.9245283018867925,2.1,2.1,False
+6c65_B|section=1.5,8u5t_A|section=1.5,89.189,37,36,36,7.86e-09,42.8,6c65_B,8u5t_A,"('6c65_B', '8u5t_A')",1.0277777777777777,1.0277777777777777,1.5,1.5,False

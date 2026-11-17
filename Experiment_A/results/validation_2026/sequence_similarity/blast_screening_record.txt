@@ -1,0 +1,11 @@
+Experiment A - exploratory sequence similarity screen
+blastn: 2.12.0+
+ Package: blast 2.12.0, build Apr  1 2024 07:01:27
+
+Dataset: 45-RNA sensitivity subset, Keep 7r6q_6
+Method: local all-versus-all BLASTN
+Task: blastn, word size: 7, DUST: no
+Filtering thresholds:
+Identity >= 80%; query coverage >= 70%; subject coverage >= 70%; alignment length >= 20 nt
+Interpretation: no cross-section pairs met these thresholds.
+This does not prove evolutionary-family independence.
