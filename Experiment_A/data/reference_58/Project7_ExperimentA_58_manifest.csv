@@ -1,0 +1,59 @@
+structure_id,pdb_id,chain_id,sequence_length,reference_base_pairs,reference_paired_nucleotides,reference_unpaired_nucleotides,supp_section,supp_name,supp_category,pseudoknot_candidate,length_agrees,rfam_family,training_family_overlap,benchmark_status,reference_file
+1f1t_A,1F1T,A,38,13,26,12,1.15,Malachite green aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/1f1t_A.ct
+1ykv_D,1YKV,D,31,8,16,15,4.4,Diels-Alder ribozyme,Ribozymes,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/1ykv_D.ct
+1yls_D,1YLS,D,31,8,16,15,4.4,Diels-Alder ribozyme,Ribozymes,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/1yls_D.ct
+3egz_B,3EGZ,B,65,18,36,29,1.18,Tetracycline aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/3egz_B.ct
+3p22_A,3P22,A,40,12,24,16,7.5,ENE,Miscellaneous,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/3p22_A.ct
+3p22_E,3P22,E,40,12,24,16,7.5,ENE,Miscellaneous,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/3p22_E.ct
+4k27_U,4K27,U,55,17,34,21,5.2,r(CCUG),Repeats,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/4k27_U.ct
+4pcj_A,4PCJ,A,35,12,24,11,5.1,r(CUG),Repeats,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/4pcj_A.ct
+4r4v_A,4R4V,A,186,61,122,64,4.2,VS ribozyme,Ribozymes,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/4r4v_A.ct
+5bjo_Y,5BJO,Y,36,7,14,22,1.10,Corn aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/5bjo_Y.ct
+5btm_A,5BTM,A,43,12,24,19,5.3,r(AUUCU),Repeats,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/5btm_A.ct
+5dea_C,5DEA,C,35,7,14,21,6.5,Synthetic G-quadruplex,Miscellaneous (synthetic),no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/5dea_C.ct
+5m0h_A,5M0H,A,42,12,24,18,7.6,ASH1 mRNA E3-localization element,Miscellaneous,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/5m0h_A.ct
+5voe_A,5VOE,A,36,11,22,14,1.16,11F7t aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/5voe_A.ct
+6aay_B,6AAY,B,59,10,20,39,2.4,Cas13 guide,CRISPR guides,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6aay_B.ct
+6az4_A,6AZ4,A,21,6,12,9,6.3,Synthetic hairpin,Miscellaneous (synthetic),no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6az4_A.ct
+6b14_R,6B14,R,83,25,50,33,1.4,Spinach aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6b14_R.ct
+6b3k_R,6B3K,R,83,25,50,33,1.4,Spinach aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6b3k_R.ct
+6c65_B,6C65,B,36,6,12,24,1.5,Mango aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6c65_B.ct
+6d3p_A,6D3P,A,45,9,18,27,7.7,SCNMV xrRNA,Miscellaneous,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6d3p_A.ct
+6dtd_C,6DTD,C,37,11,22,15,2.4,Cas13 guide,CRISPR guides,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6dtd_C.ct
+6dvk_H,6DVK,H,95,30,60,35,6.4,Synthetic tetraloop-tetraloop receptor,Miscellaneous (synthetic),no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6dvk_H.ct
+6e8s_B,6E8S,B,38,8,16,22,1.5,Mango aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6e8s_B.ct
+6e8t_D,6E8T,D,36,7,14,22,1.5,Mango aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6e8t_D.ct
+6e8u_B,6E8U,B,37,6,12,25,1.5,Mango aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6e8u_B.ct
+6rti_X,6RTI,X,43,9,18,25,1.13,A9g aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6rti_X.ct
+6sy4_C,6SY4,C,38,7,14,24,1.17,K1 aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6sy4_C.ct
+6t2c_V,6T2C,V,34,6,12,22,7.8,Influenza B vRNA promoter,Miscellaneous,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6t2c_V.ct
+6w2t_A,6W2T,A,339,44,88,251,3.2,CrPV 5’UTR IRES,IRES,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6w2t_A.ct
+6wbr_B,6WBR,B,74,20,40,34,2.1,Cas9 guide,CRISPR guides,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6wbr_B.ct
+6xjq_A,6XJQ,A,58,18,36,22,4.3,Self-alkylating ribozyme,Ribozymes,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/6xjq_A.ct
+7dlz_Y,7DLZ,Y,45,15,30,15,4.5,Methyltransferase ribozyme,Ribozymes,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/7dlz_Y.ct
+7el1_B,7EL1,B,53,16,32,21,2.1,Cas9 guide,CRISPR guides,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/7el1_B.ct
+7eoh_A,7EOH,A,49,16,32,17,1.8,Pepper aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/7eoh_A.ct
+7jnh_B,7JNH,B,86,29,58,28,7.5,ENE,Miscellaneous,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/7jnh_B.ct
+7jrr_A,7JRR,A,51,14,28,23,6.1,Nanoarchitecture 1,Miscellaneous (synthetic),no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/7jrr_A.ct
+7jrs_A,7JRS,A,129,40,80,49,6.2,Nanoarchitecture 2,Miscellaneous (synthetic),no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/7jrs_A.ct
+7ljy_B,7LJY,B,76,22,44,32,7.5,ENE,Miscellaneous,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/7ljy_B.ct
+7oax_D,7OAX,D,52,15,30,22,1.9,Chili aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/7oax_D.ct
+7r6q_6,7R6Q,6,87,19,38,49,7.4,ITS-2,Miscellaneous,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/7r6q_6.ct
+7u0h_6,7U0H,6,87,15,30,57,7.4,ITS-2,Miscellaneous,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/7u0h_6.ct
+7v9e_A,7V9E,A,68,20,40,28,4.5,Methyltransferase ribozyme,Ribozymes,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/7v9e_A.ct
+8d28_A,8D28,A,33,9,18,15,1.1,Theophyline aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8d28_A.ct
+8d29_C,8D29,C,34,10,20,14,1.1,Theophyline aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8d29_C.ct
+8dc2_B,8DC2,B,36,10,20,16,2.3,Cas12 guide,CRISPR guides,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8dc2_B.ct
+8dk7_C,8DK7,C,34,6,12,22,1.1,Theophyline aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8dk7_C.ct
+8ewg_B,8EWG,B,57,8,16,41,2.4,Cas13 guide,CRISPR guides,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8ewg_B.ct
+8eyu_B,8EYU,B,49,13,26,23,1.14,Beetroot aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8eyu_B.ct
+8f0n_B,8F0N,B,49,13,26,23,1.14,Beetroot aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8f0n_B.ct
+8hud_B,8HUD,B,52,15,30,22,2.1,Cas9 guide,CRISPR guides,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8hud_B.ct
+8hze_B,8HZE,B,35,8,16,19,1.12,Clivia aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8hze_B.ct
+8hzj_A,8HZJ,A,35,8,16,19,1.12,Clivia aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8hzj_A.ct
+8hzl_B,8HZL,B,84,19,38,46,1.12,Clivia aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8hzl_B.ct
+8u5j_A,8U5J,A,36,6,12,24,1.5,Mango aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8u5j_A.ct
+8u5t_A,8U5T,A,36,6,12,24,1.5,Mango aptamer,Aptamers,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8u5t_A.ct
+8umf_B,8UMF,B,101,30,60,41,2.1,Cas9 guide,CRISPR guides,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8umf_B.ct
+8w35_C,8W35,C,37,12,24,13,7.2,Structured part of acrIF8-aca2 5’ UTR,Miscellaneous,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8w35_C.ct
+8wcs_G,8WCS,G,66,9,18,48,2.4,Cas13 guide,CRISPR guides,no,YES,UNVERIFIED,UNVERIFIED,CANDIDATE_NOT_APPROVED,supplemental-file-2/ground-truth/8wcs_G.ct
