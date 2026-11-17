@@ -118,8 +118,4 @@ However, its advantage was less consistent under equal-section weighting, highli
 
 Further validation using independently established RNA group assignments would strengthen the interpretation of these findings.
 
----
 
-**Project:** RNA Bioinformatics Research Project 7  
-**Institution:** Université Paris-Saclay  
-**Academic year:** 2026–2027
