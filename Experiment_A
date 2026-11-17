@@ -1,0 +1,17 @@
+
+# Experiment A — Structural-Reference Calibration
+
+This experiment evaluates RNA pairing probabilities
+using PDB-derived structural reference data.
+
+Methods:
+- ViennaRNA
+- LinearPartition-V
+- EternaFold
+
+Analyses:
+- ECE, Brier score and log loss
+- Bootstrap confidence intervals
+- Rfam screening
+- Temperature scaling
+- Isotonic regression
