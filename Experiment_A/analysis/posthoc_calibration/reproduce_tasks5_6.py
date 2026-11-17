@@ -1,6 +1,6 @@
 """Project 7, Experiment A: published-section grouping audit and out-of-section temperature scaling.
 Usage: python reproduce_tasks5_6.py --source /path/to/ExperimentA_50RNA_results.zip --output output_directory
-This is exploratory leave-one-supplement-section-out cross-validation, NOT verified family-disjoint generalization.
+
 """
 from __future__ import annotations
 import argparse
