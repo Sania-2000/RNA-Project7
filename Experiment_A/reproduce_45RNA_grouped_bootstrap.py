@@ -1,7 +1,4 @@
 """Reproduce grouped-bootstrap summaries from the two included matched CSVs.
-
-Usage: python reproduce_45RNA_grouped_bootstrap.py
-Dependencies: numpy, pandas
 """
 import numpy as np
 import pandas as pd
