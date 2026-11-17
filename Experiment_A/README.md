@@ -79,4 +79,3 @@ The analysis highlights the importance of dataset selection, grouping assumption
 
 ---
 
-**Université Paris-Saclay | Academic Year 2026–2027**
