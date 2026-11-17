@@ -1,0 +1,349 @@
+structure_id,retained_50,dataset,max_global_Levenshtein_similarity,nearest_fasta_id,nearest_fasta_length,matches_ge70pct,matches_ge80pct
+1f1t_A,False,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+1ykv_D,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+1yls_D,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+3egz_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5641025641025641,../ChemMappingData/holdout/ETERNA_R71_0000.rdat-EteRNA_Cloud_Lab-829,78,0,0
+3p22_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+3p22_E,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+4k27_U,False,holdout_datasets/ChemMappingData_holdout.fasta,0.36764705882352944,../ChemMappingData/holdout/ETERNA_R78_0001.rdat-EteRNA_Cloud_Lab-890,68,0,0
+4pcj_A,False,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+4r4v_A,False,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+5bjo_Y,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+5btm_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+5dea_C,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+5m0h_A,False,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+5voe_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6aay_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5070422535211268,../ChemMappingData/holdout/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-861,71,0,0
+6az4_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6b14_R,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5542168674698795,../ChemMappingData/holdout/ETERNA_R73_0001.rdat-EteRNA_Cloud_Lab-112,79,0,0
+6b3k_R,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5662650602409638,../ChemMappingData/holdout/ETERNA_R73_0001.rdat-EteRNA_Cloud_Lab-112,79,0,0
+6c65_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6d3p_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6dtd_C,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6dvk_H,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5544554455445545,../ChemMappingData/holdout/ETERNA_R78_0001.rdat-EteRNA_Cloud_Lab-1547,101,0,0
+6e8s_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6e8t_D,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6e8u_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6rti_X,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6sy4_C,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6t2c_V,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6w2t_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+6wbr_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5384615384615384,../ChemMappingData/holdout/ETERNA_R71_0000.rdat-EteRNA_Cloud_Lab-116,78,0,0
+6xjq_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.47887323943661975,../ChemMappingData/holdout/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-860,71,0,0
+7dlz_Y,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+7el1_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+7eoh_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+7jnh_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5232558139534884,../ChemMappingData/holdout/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-493,78,0,0
+7jrr_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+7jrs_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+7ljy_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5128205128205128,../ChemMappingData/holdout/ETERNA_R71_0000.rdat-EteRNA_Cloud_Lab-1289,78,0,0
+7oax_D,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+7r6q_6,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5204081632653061,../ChemMappingData/holdout/ETERNA_R78_0001.rdat-EteRNA_Cloud_Lab-1112,98,0,0
+7u0h_6,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5204081632653061,../ChemMappingData/holdout/ETERNA_R78_0001.rdat-EteRNA_Cloud_Lab-1112,98,0,0
+7v9e_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5384615384615384,../ChemMappingData/holdout/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-68,78,0,0
+8d28_A,False,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8d29_C,False,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8dc2_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8dk7_C,False,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8ewg_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.47887323943661975,../ChemMappingData/holdout/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-875,71,0,0
+8eyu_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8f0n_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8hud_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8hze_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8hzj_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8hzl_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5952380952380952,../ChemMappingData/holdout/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-295,78,0,0
+8u5j_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8u5t_A,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8umf_B,True,holdout_datasets/ChemMappingData_holdout.fasta,0.504950495049505,../ChemMappingData/holdout/ETERNA_R78_0001.rdat-EteRNA_Cloud_Lab-815,101,0,0
+8w35_C,True,holdout_datasets/ChemMappingData_holdout.fasta,0.0,,0,0,0
+8wcs_G,True,holdout_datasets/ChemMappingData_holdout.fasta,0.5316455696202531,../ChemMappingData/holdout/ETERNA_R73_0001.rdat-EteRNA_Cloud_Lab-891,79,0,0
+1f1t_A,False,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+1ykv_D,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+1yls_D,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+3egz_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5526315789473684,../RiboswitchData/holdout/FMN_725,76,0,0
+3p22_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+3p22_E,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+4k27_U,False,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+4pcj_A,False,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+4r4v_A,False,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+5bjo_Y,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+5btm_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+5dea_C,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+5m0h_A,False,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+5voe_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6aay_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6az4_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6b14_R,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5595238095238095,../RiboswitchData/holdout/FMN_1418,84,0,0
+6b3k_R,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5476190476190477,../RiboswitchData/holdout/FMN_1418,84,0,0
+6c65_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6d3p_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6dtd_C,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6dvk_H,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5578947368421052,../RiboswitchData/holdout/Theo_2540,85,0,0
+6e8s_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6e8t_D,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6e8u_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6rti_X,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6sy4_C,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6t2c_V,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6w2t_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+6wbr_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5411764705882354,../RiboswitchData/holdout/Theo_2553,85,0,0
+6xjq_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+7dlz_Y,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+7el1_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+7eoh_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+7jnh_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5116279069767442,../RiboswitchData/holdout/FMN_2413,84,0,0
+7jrr_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+7jrs_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+7ljy_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5058823529411764,../RiboswitchData/holdout/Theo_2520,85,0,0
+7oax_D,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+7r6q_6,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5172413793103448,../RiboswitchData/holdout/FMN_1950,84,0,0
+7u0h_6,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5172413793103448,../RiboswitchData/holdout/FMN_1950,84,0,0
+7v9e_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5595238095238095,../RiboswitchData/holdout/FMN_1039,84,0,0
+8d28_A,False,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8d29_C,False,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8dc2_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8dk7_C,False,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8ewg_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8eyu_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8f0n_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8hud_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8hze_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8hzj_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8hzl_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5357142857142857,../RiboswitchData/holdout/FMN_961,74,0,0
+8u5j_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8u5t_A,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8umf_B,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5544554455445545,../RiboswitchData/holdout/FMN_2323,84,0,0
+8w35_C,True,holdout_datasets/RiboswitchData_holdout.fasta,0.0,,0,0,0
+8wcs_G,True,holdout_datasets/RiboswitchData_holdout.fasta,0.5540540540540541,../RiboswitchData/holdout/FMN_531,74,0,0
+1f1t_A,False,holdout_datasets/S-Processed-VAL.fasta,0.5789473684210527,SSTRAND_ID=ASE_00197; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=M.leprae.ct; ORGANISM=Mycobacterium leprae,37,0,0
+1ykv_D,True,holdout_datasets/S-Processed-VAL.fasta,0.5789473684210527,SSTRAND_ID=PDB_00149; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1m5l; ORGANISM=SYNTHETIC,38,0,0
+1yls_D,True,holdout_datasets/S-Processed-VAL.fasta,0.6052631578947368,SSTRAND_ID=PDB_00149; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1m5l; ORGANISM=SYNTHETIC,38,0,0
+3egz_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5384615384615384,SSTRAND_ID=SPR_00404; TYPE=Transfer RNA; EXT_SOURCE=Sprinzl tRNA Database; EXT_ID=RS6230; ORGANISM=HAMSTER,54,0,0
+3p22_A,True,holdout_datasets/S-Processed-VAL.fasta,0.575,SSTRAND_ID=CRW_00318; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AF231348; ORGANISM=Babesia microti,37,0,0
+3p22_E,True,holdout_datasets/S-Processed-VAL.fasta,0.575,SSTRAND_ID=CRW_00318; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AF231348; ORGANISM=Babesia microti,37,0,0
+4k27_U,False,holdout_datasets/S-Processed-VAL.fasta,0.5166666666666666,SSTRAND_ID=CRW_00053; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=M26629; ORGANISM=Allochromatium vinosum,60,0,0
+4pcj_A,False,holdout_datasets/S-Processed-VAL.fasta,0.5714285714285714,SSTRAND_ID=CRW_00514; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=M27245; ORGANISM=Streptomyces ambofaciens,32,0,0
+4r4v_A,False,holdout_datasets/S-Processed-VAL.fasta,0.521505376344086,SSTRAND_ID=ASE_00292; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=R.capsulatus.ct; ORGANISM=Rhodobacter capsulatus,161,0,0
+5bjo_Y,True,holdout_datasets/S-Processed-VAL.fasta,0.5833333333333333,SSTRAND_ID=PDB_00065; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1f84; ORGANISM=SYNTHETIC,29,0,0
+5btm_A,True,holdout_datasets/S-Processed-VAL.fasta,0.5769230769230769,SSTRAND_ID=CRW_00337; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AF261665; ORGANISM=fungal contaminant of QPX isolate,52,0,0
+5dea_C,True,holdout_datasets/S-Processed-VAL.fasta,0.5428571428571429,SSTRAND_ID=CRW_00050; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X82450; ORGANISM=Actinomyces israelii,31,0,0
+5m0h_A,False,holdout_datasets/S-Processed-VAL.fasta,0.5576923076923077,SSTRAND_ID=CRW_00337; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AF261665; ORGANISM=fungal contaminant of QPX isolate,52,0,0
+5voe_A,True,holdout_datasets/S-Processed-VAL.fasta,0.5277777777777778,SSTRAND_ID=CRW_00136; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X64372; ORGANISM=Isosphaera pallida,30,0,0
+6aay_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5593220338983051,SSTRAND_ID=CRW_00138; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=M58802; ORGANISM=Lactobacillus acidophilus,53,0,0
+6az4_A,True,holdout_datasets/S-Processed-VAL.fasta,0.6666666666666667,SSTRAND_ID=PDB_00160; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1mt4; ORGANISM=SYNTHETIC,24,0,0
+6b14_R,True,holdout_datasets/S-Processed-VAL.fasta,0.5542168674698795,SSTRAND_ID=SPR_00300; TYPE=Transfer RNA; EXT_SOURCE=Sprinzl tRNA Database; EXT_ID=RN8560; ORGANISM=LUPINUS LUTEUS,76,0,0
+6b3k_R,True,holdout_datasets/S-Processed-VAL.fasta,0.5542168674698795,SSTRAND_ID=SPR_00300; TYPE=Transfer RNA; EXT_SOURCE=Sprinzl tRNA Database; EXT_ID=RN8560; ORGANISM=LUPINUS LUTEUS,76,0,0
+6c65_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5555555555555556,SSTRAND_ID=PDB_00065; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1f84; ORGANISM=SYNTHETIC,29,0,0
+6d3p_A,True,holdout_datasets/S-Processed-VAL.fasta,0.5555555555555556,SSTRAND_ID=ASE_00197; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=M.leprae.ct; ORGANISM=Mycobacterium leprae,37,0,0
+6dtd_C,True,holdout_datasets/S-Processed-VAL.fasta,0.5135135135135135,SSTRAND_ID=ASE_00058; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=C.pneumoniae-CWL029.ct; ORGANISM=Chlamydophila pneumoniae,30,0,0
+6dvk_H,True,holdout_datasets/S-Processed-VAL.fasta,0.5368421052631579,SSTRAND_ID=SPR_00164; TYPE=Transfer RNA; EXT_SOURCE=Sprinzl tRNA Database; EXT_ID=RI4310; ORGANISM=SOLANUM TUBEROSUM,77,0,0
+6e8s_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5652173913043479,SSTRAND_ID=CRW_00296; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AF113408; ORGANISM=Absidia corymbifera,46,0,0
+6e8t_D,True,holdout_datasets/S-Processed-VAL.fasta,0.5555555555555556,SSTRAND_ID=CRW_00174; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=L10657; ORGANISM=Petrotoga miotherma,31,0,0
+6e8u_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5681818181818181,SSTRAND_ID=ASE_00208; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=M.thermoautotrophicumDH-g.ct; ORGANISM=Methanobacterium thermoautotrophicum,44,0,0
+6rti_X,True,holdout_datasets/S-Processed-VAL.fasta,0.5490196078431373,SSTRAND_ID=CRW_00341; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X74753; ORGANISM=Genicularia spirotaenia,51,0,0
+6sy4_C,True,holdout_datasets/S-Processed-VAL.fasta,0.5263157894736843,SSTRAND_ID=CRW_00338; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X52949; ORGANISM=Giardia intestinalis,31,0,0
+6t2c_V,True,holdout_datasets/S-Processed-VAL.fasta,0.5714285714285714,SSTRAND_ID=CRW_00058; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=Z11683; ORGANISM=Bartonella bacilliformis,35,0,0
+6w2t_A,True,holdout_datasets/S-Processed-VAL.fasta,0.5084745762711864,> SSTRAND_ID=CRW_00483; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X65602; ORGANISM=Clostridium botulinum A,413,0,0
+6wbr_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5402298850574713,SSTRAND_ID=SPR_00210; TYPE=Transfer RNA; EXT_SOURCE=Sprinzl tRNA Database; EXT_ID=RL0500; ORGANISM=HALOFERAX VOLCANII,87,0,0
+6xjq_A,True,holdout_datasets/S-Processed-VAL.fasta,0.5517241379310345,SSTRAND_ID=ASE_00154; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=H.trapanicum.ct; ORGANISM=Halorubrum trapanicum,50,0,0
+7dlz_Y,True,holdout_datasets/S-Processed-VAL.fasta,0.6122448979591837,SSTRAND_ID=CRW_00400; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AF245382; ORGANISM=Trypanosoma cruzi,49,0,0
+7el1_B,True,holdout_datasets/S-Processed-VAL.fasta,0.49056603773584906,SSTRAND_ID=CRW_00174; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=L10657; ORGANISM=Petrotoga miotherma,47,0,0
+7eoh_A,True,holdout_datasets/S-Processed-VAL.fasta,0.55,SSTRAND_ID=ASE_00226; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=N.meningtidis-MC58.ct; ORGANISM=Neisseria meningitidis,60,0,0
+7jnh_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5465116279069768,SSTRAND_ID=SPR_00487; TYPE=Transfer RNA; EXT_SOURCE=Sprinzl tRNA Database; EXT_ID=RW3840; ORGANISM=TETRAHYMENA THERM.,74,0,0
+7jrr_A,True,holdout_datasets/S-Processed-VAL.fasta,0.5714285714285714,SSTRAND_ID=CRW_00504; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X56657; ORGANISM=Mycobacterium leprae,63,0,0
+7jrs_A,True,holdout_datasets/S-Processed-VAL.fasta,0.5193798449612403,SSTRAND_ID=CRW_00122; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X75617; ORGANISM=Gluconacetobacter liquefaciens,108,0,0
+7ljy_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5263157894736843,SSTRAND_ID=ASE_00039; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=C.caviae-G.ct; ORGANISM=Chlamydophila caviae,62,0,0
+7oax_D,True,holdout_datasets/S-Processed-VAL.fasta,0.5576923076923077,SSTRAND_ID=CRW_00296; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AF113408; ORGANISM=Absidia corymbifera,46,0,0
+7r6q_6,True,holdout_datasets/S-Processed-VAL.fasta,0.5094339622641509,SSTRAND_ID=ASE_00016; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=A.telluris.ct; ORGANISM=Arxiozyma telluris,106,0,0
+7u0h_6,True,holdout_datasets/S-Processed-VAL.fasta,0.5094339622641509,SSTRAND_ID=ASE_00016; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=A.telluris.ct; ORGANISM=Arxiozyma telluris,106,0,0
+7v9e_A,True,holdout_datasets/S-Processed-VAL.fasta,0.5492957746478873,SSTRAND_ID=ASE_00030; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=B.pertussis.ct; ORGANISM=Bordetella pertussis,71,0,0
+8d28_A,False,holdout_datasets/S-Processed-VAL.fasta,0.9696969696969697,SSTRAND_ID=PDB_00178; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1o15; ORGANISM=SYNTHETIC,33,1,1
+8d29_C,False,holdout_datasets/S-Processed-VAL.fasta,0.8823529411764706,SSTRAND_ID=PDB_00178; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1o15; ORGANISM=SYNTHETIC,33,1,1
+8dc2_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5454545454545454,SSTRAND_ID=ASE_00327; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=S.globosus.ct; ORGANISM=Saccharomyces globosus,44,0,0
+8dk7_C,False,holdout_datasets/S-Processed-VAL.fasta,0.8823529411764706,SSTRAND_ID=PDB_00178; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1o15; ORGANISM=SYNTHETIC,33,1,1
+8ewg_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5614035087719298,SSTRAND_ID=ASE_00156; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=Halobacterium-NRC1.ct; ORGANISM=Halobacterium sp.,49,0,0
+8eyu_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5740740740740741,SSTRAND_ID=ASE_00428; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=T.thermophilus.ct; ORGANISM=Thermus thermophilus,54,0,0
+8f0n_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5740740740740741,SSTRAND_ID=ASE_00428; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=T.thermophilus.ct; ORGANISM=Thermus thermophilus,54,0,0
+8hud_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5384615384615384,SSTRAND_ID=CRW_00174; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=L10657; ORGANISM=Petrotoga miotherma,47,0,0
+8hze_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5714285714285714,SSTRAND_ID=CRW_00133; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AE000620; ORGANISM=Helicobacter pylori 26695,28,0,0
+8hzj_A,True,holdout_datasets/S-Processed-VAL.fasta,0.5714285714285714,SSTRAND_ID=CRW_00133; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AE000620; ORGANISM=Helicobacter pylori 26695,28,0,0
+8hzl_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5476190476190477,SSTRAND_ID=CRW_00264; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X95918; ORGANISM=Xanthomonas albilineans,75,0,0
+8u5j_A,True,holdout_datasets/S-Processed-VAL.fasta,0.5681818181818181,SSTRAND_ID=ASE_00208; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=M.thermoautotrophicumDH-g.ct; ORGANISM=Methanobacterium thermoautotrophicum,44,0,0
+8u5t_A,True,holdout_datasets/S-Processed-VAL.fasta,0.5555555555555556,SSTRAND_ID=ASE_00018; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=A.tumefaciens.ct; ORGANISM=Agrobacterium tumefaciens,31,0,0
+8umf_B,True,holdout_datasets/S-Processed-VAL.fasta,0.5148514851485149,SSTRAND_ID=ASE_00237; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=Onchorhynchus-sp-2.ct; ORGANISM=Onchorhynchus sp.,87,0,0
+8w35_C,True,holdout_datasets/S-Processed-VAL.fasta,0.5675675675675675,SSTRAND_ID=ASE_00197; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=M.leprae.ct; ORGANISM=Mycobacterium leprae,37,0,0
+8wcs_G,True,holdout_datasets/S-Processed-VAL.fasta,0.5757575757575757,SSTRAND_ID=CRW_00138; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=M58802; ORGANISM=Lactobacillus acidophilus,53,0,0
+1f1t_A,False,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+1ykv_D,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+1yls_D,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+3egz_B,True,train_datasets/ChemMappingData_train.fasta,0.5641025641025641,../ChemMappingData/train/ETERNA_R71_0000.rdat-EteRNA_Cloud_Lab-295,78,0,0
+3p22_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+3p22_E,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+4k27_U,False,train_datasets/ChemMappingData_train.fasta,0.4117647058823529,../ChemMappingData/train/ETERNA_R78_0001.rdat-EteRNA_Cloud_Lab-954,68,0,0
+4pcj_A,False,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+4r4v_A,False,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+5bjo_Y,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+5btm_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+5dea_C,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+5m0h_A,False,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+5voe_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6aay_B,True,train_datasets/ChemMappingData_train.fasta,0.5633802816901409,../ChemMappingData/train/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-851,71,0,0
+6az4_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6b14_R,True,train_datasets/ChemMappingData_train.fasta,0.5783132530120482,../ChemMappingData/train/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-581,78,0,0
+6b3k_R,True,train_datasets/ChemMappingData_train.fasta,0.5783132530120482,../ChemMappingData/train/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-581,78,0,0
+6c65_B,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6d3p_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6dtd_C,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6dvk_H,True,train_datasets/ChemMappingData_train.fasta,0.5544554455445545,../ChemMappingData/train/ETERNA_R78_0001.rdat-EteRNA_Cloud_Lab-1366,101,0,0
+6e8s_B,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6e8t_D,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6e8u_B,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6rti_X,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6sy4_C,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6t2c_V,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6w2t_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+6wbr_B,True,train_datasets/ChemMappingData_train.fasta,0.5512820512820513,../ChemMappingData/train/ETERNA_R71_0000.rdat-EteRNA_Cloud_Lab-1090,78,0,0
+6xjq_A,True,train_datasets/ChemMappingData_train.fasta,0.46478873239436624,../ChemMappingData/train/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-874,71,0,0
+7dlz_Y,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+7el1_B,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+7eoh_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+7jnh_B,True,train_datasets/ChemMappingData_train.fasta,0.5465116279069768,../ChemMappingData/train/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-547,78,0,0
+7jrr_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+7jrs_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+7ljy_B,True,train_datasets/ChemMappingData_train.fasta,0.49411764705882355,../ChemMappingData/train/ETERNA_R79_0001.rdat-EteRNA_Cloud_Lab-1326,85,0,0
+7oax_D,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+7r6q_6,True,train_datasets/ChemMappingData_train.fasta,0.5294117647058824,../ChemMappingData/train/ETERNA_R79_0001.rdat-EteRNA_Cloud_Lab-1486,102,0,0
+7u0h_6,True,train_datasets/ChemMappingData_train.fasta,0.5294117647058824,../ChemMappingData/train/ETERNA_R79_0001.rdat-EteRNA_Cloud_Lab-1486,102,0,0
+7v9e_A,True,train_datasets/ChemMappingData_train.fasta,0.5443037974683544,../ChemMappingData/train/ETERNA_R73_0001.rdat-EteRNA_Cloud_Lab-321,79,0,0
+8d28_A,False,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8d29_C,False,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8dc2_B,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8dk7_C,False,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8ewg_B,True,train_datasets/ChemMappingData_train.fasta,0.47887323943661975,../ChemMappingData/train/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-858,71,0,0
+8eyu_B,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8f0n_B,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8hud_B,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8hze_B,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8hzj_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8hzl_B,True,train_datasets/ChemMappingData_train.fasta,0.5952380952380952,../ChemMappingData/train/ETERNA_R73_0001.rdat-EteRNA_Cloud_Lab-228,79,0,0
+8u5j_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8u5t_A,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8umf_B,True,train_datasets/ChemMappingData_train.fasta,0.5196078431372548,../ChemMappingData/train/ETERNA_R79_0001.rdat-EteRNA_Cloud_Lab-1233,102,0,0
+8w35_C,True,train_datasets/ChemMappingData_train.fasta,0.0,,0,0,0
+8wcs_G,True,train_datasets/ChemMappingData_train.fasta,0.5384615384615384,../ChemMappingData/train/ETERNA_R75_0000.rdat-EteRNA_Cloud_Lab-837,78,0,0
+1f1t_A,False,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+1ykv_D,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+1yls_D,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+3egz_B,True,train_datasets/RiboswitchData_train.fasta,0.5526315789473684,../RiboswitchData/train/FMN_730,76,0,0
+3p22_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+3p22_E,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+4k27_U,False,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+4pcj_A,False,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+4r4v_A,False,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+5bjo_Y,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+5btm_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+5dea_C,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+5m0h_A,False,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+5voe_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6aay_B,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6az4_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6b14_R,True,train_datasets/RiboswitchData_train.fasta,0.5783132530120482,../RiboswitchData/train/FMN_693,76,0,0
+6b3k_R,True,train_datasets/RiboswitchData_train.fasta,0.5662650602409638,../RiboswitchData/train/FMN_693,76,0,0
+6c65_B,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6d3p_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6dtd_C,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6dvk_H,True,train_datasets/RiboswitchData_train.fasta,0.5789473684210527,../RiboswitchData/train/FMN_1639,76,0,0
+6e8s_B,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6e8t_D,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6e8u_B,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6rti_X,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6sy4_C,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6t2c_V,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6w2t_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+6wbr_B,True,train_datasets/RiboswitchData_train.fasta,0.5529411764705883,../RiboswitchData/train/Theo_2748,85,0,0
+6xjq_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+7dlz_Y,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+7el1_B,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+7eoh_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+7jnh_B,True,train_datasets/RiboswitchData_train.fasta,0.5116279069767442,../RiboswitchData/train/FMN_781,76,0,0
+7jrr_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+7jrs_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+7ljy_B,True,train_datasets/RiboswitchData_train.fasta,0.5119047619047619,../RiboswitchData/train/FMN_1520,84,0,0
+7oax_D,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+7r6q_6,True,train_datasets/RiboswitchData_train.fasta,0.5287356321839081,../RiboswitchData/train/FMN_2411,84,0,0
+7u0h_6,True,train_datasets/RiboswitchData_train.fasta,0.5287356321839081,../RiboswitchData/train/FMN_2411,84,0,0
+7v9e_A,True,train_datasets/RiboswitchData_train.fasta,0.5595238095238095,../RiboswitchData/train/FMN_1552,84,0,0
+8d28_A,False,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8d29_C,False,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8dc2_B,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8dk7_C,False,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8ewg_B,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8eyu_B,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8f0n_B,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8hud_B,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8hze_B,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8hzj_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8hzl_B,True,train_datasets/RiboswitchData_train.fasta,0.5476190476190477,../RiboswitchData/train/FMN_873,74,0,0
+8u5j_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8u5t_A,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8umf_B,True,train_datasets/RiboswitchData_train.fasta,0.5544554455445545,../RiboswitchData/train/FMN_1553,84,0,0
+8w35_C,True,train_datasets/RiboswitchData_train.fasta,0.0,,0,0,0
+8wcs_G,True,train_datasets/RiboswitchData_train.fasta,0.527027027027027,../RiboswitchData/train/FMN_418,74,0,0
+1f1t_A,False,train_datasets/S-Processed-TRA.fasta,0.631578947368421,SSTRAND_ID=PDB_00170; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1n8x; ORGANISM=SYNTHETIC,36,0,0
+1ykv_D,True,train_datasets/S-Processed-TRA.fasta,0.6774193548387097,SSTRAND_ID=PDB_00132; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1kp7; ORGANISM=SYNTHETIC,30,0,0
+1yls_D,True,train_datasets/S-Processed-TRA.fasta,0.6451612903225806,SSTRAND_ID=PDB_00132; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1kp7; ORGANISM=SYNTHETIC,30,0,0
+3egz_B,True,train_datasets/S-Processed-TRA.fasta,0.5692307692307692,SSTRAND_ID=ASE_00425; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=T.neapolitana.ct; ORGANISM=Thermotoga neapolitana,59,0,0
+3p22_A,True,train_datasets/S-Processed-TRA.fasta,0.5853658536585367,SSTRAND_ID=CRW_00316; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AB071177; ORGANISM=Babesia microti,41,0,0
+3p22_E,True,train_datasets/S-Processed-TRA.fasta,0.5853658536585367,SSTRAND_ID=CRW_00316; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AB071177; ORGANISM=Babesia microti,41,0,0
+4k27_U,False,train_datasets/S-Processed-TRA.fasta,0.564516129032258,SSTRAND_ID=CRW_00519; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X12612; ORGANISM=Thermus thermophilus,62,0,0
+4pcj_A,False,train_datasets/S-Processed-TRA.fasta,0.5714285714285714,SSTRAND_ID=ASE_00055; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=C.pecorum-iB1.ct; ORGANISM=Chlamydia pecorum,28,0,0
+4r4v_A,False,train_datasets/S-Processed-TRA.fasta,0.543010752688172,SSTRAND_ID=CRW_00505; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X06484; ORGANISM=Micrococcus luteus,159,0,0
+5bjo_Y,True,train_datasets/S-Processed-TRA.fasta,0.6944444444444444,SSTRAND_ID=PDB_00010; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1aju; ORGANISM=SYNTHETIC,30,0,0
+5btm_A,True,train_datasets/S-Processed-TRA.fasta,0.5490196078431373,SSTRAND_ID=CRW_00380; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=U93095; ORGANISM=Plasmodium vivax (O gene),51,0,0
+5dea_C,True,train_datasets/S-Processed-TRA.fasta,0.6,SSTRAND_ID=CRW_00156; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=M38242; ORGANISM=Micrococcus luteus,30,0,0
+5m0h_A,False,train_datasets/S-Processed-TRA.fasta,0.5952380952380952,SSTRAND_ID=ASE_00151; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=H.pylori-J99.ct; ORGANISM=Helicobacter pylori,35,0,0
+5voe_A,True,train_datasets/S-Processed-TRA.fasta,0.5952380952380952,SSTRAND_ID=CRW_00544; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=UNP00109; ORGANISM=Suillus sinuspaulianus,42,0,0
+6aay_B,True,train_datasets/S-Processed-TRA.fasta,0.5423728813559322,SSTRAND_ID=ASE_00452; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=Z.bailii.ct; ORGANISM=Zygosaccharomyces bailii,48,0,0
+6az4_A,True,train_datasets/S-Processed-TRA.fasta,0.6666666666666667,SSTRAND_ID=CRW_00542; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X92688; ORGANISM=Pecten maximus,19,0,0
+6b14_R,True,train_datasets/S-Processed-TRA.fasta,0.5662650602409638,SSTRAND_ID=ASE_00018; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=A.tumefaciens.ct; ORGANISM=Agrobacterium tumefaciens,75,0,0
+6b3k_R,True,train_datasets/S-Processed-TRA.fasta,0.5662650602409638,SSTRAND_ID=SPR_00299; TYPE=Transfer RNA; EXT_SOURCE=Sprinzl tRNA Database; EXT_ID=RN7630; ORGANISM=SACCHAROMYCES CER.,77,0,0
+6c65_B,True,train_datasets/S-Processed-TRA.fasta,0.6111111111111112,SSTRAND_ID=PDB_00142; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1ldz; ORGANISM=SYNTHETIC,30,0,0
+6d3p_A,True,train_datasets/S-Processed-TRA.fasta,0.6296296296296297,SSTRAND_ID=CRW_00174; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=L10657; ORGANISM=Petrotoga miotherma,54,0,0
+6dtd_C,True,train_datasets/S-Processed-TRA.fasta,0.5675675675675675,SSTRAND_ID=CRW_00527; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=U21939; ORGANISM=Plasmodium falciparum (A gene),35,0,0
+6dvk_H,True,train_datasets/S-Processed-TRA.fasta,0.5473684210526315,SSTRAND_ID=SPR_00065; TYPE=Transfer RNA; EXT_SOURCE=Sprinzl tRNA Database; EXT_ID=RF1540; ORGANISM=BACILLUS SUBTILIS,76,0,0
+6e8s_B,True,train_datasets/S-Processed-TRA.fasta,0.6052631578947368,SSTRAND_ID=ASE_00050; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=C.muridarum-MoPn.ct; ORGANISM=Chlamydia muridarum (trachomatis),32,0,0
+6e8t_D,True,train_datasets/S-Processed-TRA.fasta,0.6666666666666667,SSTRAND_ID=CRW_00142; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=M58822; ORGANISM=Listeria monocytogenes,31,0,0
+6e8u_B,True,train_datasets/S-Processed-TRA.fasta,0.6486486486486487,SSTRAND_ID=CRW_00142; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=M58822; ORGANISM=Listeria monocytogenes,31,0,0
+6rti_X,True,train_datasets/S-Processed-TRA.fasta,0.5882352941176471,SSTRAND_ID=CRW_00254; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X73223; ORGANISM=unidentified proteobacterium,51,0,0
+6sy4_C,True,train_datasets/S-Processed-TRA.fasta,0.5526315789473684,SSTRAND_ID=CRW_00400; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AF245382; ORGANISM=Trypanosoma cruzi,32,0,0
+6t2c_V,True,train_datasets/S-Processed-TRA.fasta,0.7352941176470589,SSTRAND_ID=PDB_00107; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1jo7; ORGANISM=SYNTHETIC,31,2,0
+6w2t_A,True,train_datasets/S-Processed-TRA.fasta,0.5121359223300971,SSTRAND_ID=CRW_00373; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X81811; ORGANISM=Paulinella chromatophora,412,0,0
+6wbr_B,True,train_datasets/S-Processed-TRA.fasta,0.5675675675675675,SSTRAND_ID=CRW_00143; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=M59157; ORGANISM=Legionella pneumophila,63,0,0
+6xjq_A,True,train_datasets/S-Processed-TRA.fasta,0.5862068965517242,SSTRAND_ID=ASE_00253; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=P.horikoshi.ct; ORGANISM=Pyrococcus horikoshii,48,0,0
+7dlz_Y,True,train_datasets/S-Processed-TRA.fasta,0.6,SSTRAND_ID=ASE_00390; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=SM-A36_59_.ct; ORGANISM=Salt Marsh A36(59),50,0,0
+7el1_B,True,train_datasets/S-Processed-TRA.fasta,0.5538461538461539,SSTRAND_ID=ASE_00041; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=C.difficile.ct; ORGANISM=Clostridium difficile,65,0,0
+7eoh_A,True,train_datasets/S-Processed-TRA.fasta,0.607843137254902,SSTRAND_ID=CRW_00325; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X73998; ORGANISM=Chlorella luteoviridis,51,0,0
+7jnh_B,True,train_datasets/S-Processed-TRA.fasta,0.5368421052631579,SSTRAND_ID=CRW_00505; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X06484; ORGANISM=Micrococcus luteus,95,0,0
+7jrr_A,True,train_datasets/S-Processed-TRA.fasta,0.55,SSTRAND_ID=ASE_00026; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=B.burgdorferi.ct; ORGANISM=Borellia burgdorferi,60,0,0
+7jrs_A,True,train_datasets/S-Processed-TRA.fasta,0.5348837209302326,SSTRAND_ID=CRW_00127; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=L04942; ORGANISM=Halomonas halodenitrificans,104,0,0
+7ljy_B,True,train_datasets/S-Processed-TRA.fasta,0.5394736842105263,SSTRAND_ID=ASE_00055; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=C.pecorum-iB1.ct; ORGANISM=Chlamydia pecorum,65,0,0
+7oax_D,True,train_datasets/S-Processed-TRA.fasta,0.6153846153846154,SSTRAND_ID=ASE_00253; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=P.horikoshi.ct; ORGANISM=Pyrococcus horikoshii,48,0,0
+7r6q_6,True,train_datasets/S-Processed-TRA.fasta,0.5288461538461539,SSTRAND_ID=CRW_00385; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AY117417; ORGANISM=Reclinomonas americana,104,0,0
+7u0h_6,True,train_datasets/S-Processed-TRA.fasta,0.5288461538461539,SSTRAND_ID=CRW_00385; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AY117417; ORGANISM=Reclinomonas americana,104,0,0
+7v9e_A,True,train_datasets/S-Processed-TRA.fasta,0.5526315789473684,SSTRAND_ID=ASE_00099; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=D.desulfuricans.ct; ORGANISM=Desulfovibrio desulfuricans,76,0,0
+8d28_A,False,train_datasets/S-Processed-TRA.fasta,0.6363636363636364,SSTRAND_ID=PDB_00237; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=28sp; ORGANISM=ESCHERICHIA COLI,28,0,0
+8d29_C,False,train_datasets/S-Processed-TRA.fasta,0.5882352941176471,SSTRAND_ID=CRW_00174; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=L10657; ORGANISM=Petrotoga miotherma,29,0,0
+8dc2_B,True,train_datasets/S-Processed-TRA.fasta,0.6666666666666667,SSTRAND_ID=TMR_00005; TYPE=Transfer Messenger RNA; EXT_SOURCE=tmRNA database; EXT_ID=Synechocystis sp.; ORGANISM=Synechocystis sp.,31,0,0
+8dk7_C,False,train_datasets/S-Processed-TRA.fasta,0.5882352941176471,SSTRAND_ID=CRW_00174; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=L10657; ORGANISM=Petrotoga miotherma,29,0,0
+8ewg_B,True,train_datasets/S-Processed-TRA.fasta,0.5806451612903225,SSTRAND_ID=CRW_00497; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=U27270; ORGANISM=Helicobacter pylori,62,0,0
+8eyu_B,True,train_datasets/S-Processed-TRA.fasta,0.5918367346938775,SSTRAND_ID=ASE_00253; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=P.horikoshi.ct; ORGANISM=Pyrococcus horikoshii,48,0,0
+8f0n_B,True,train_datasets/S-Processed-TRA.fasta,0.5918367346938775,SSTRAND_ID=ASE_00253; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=P.horikoshi.ct; ORGANISM=Pyrococcus horikoshii,48,0,0
+8hud_B,True,train_datasets/S-Processed-TRA.fasta,0.6,SSTRAND_ID=ASE_00041; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=C.difficile.ct; ORGANISM=Clostridium difficile,65,0,0
+8hze_B,True,train_datasets/S-Processed-TRA.fasta,0.6285714285714286,SSTRAND_ID=CRW_00272; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X81840; ORGANISM=Cyanophora paradoxa,30,0,0
+8hzj_A,True,train_datasets/S-Processed-TRA.fasta,0.6285714285714286,SSTRAND_ID=CRW_00272; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=X81840; ORGANISM=Cyanophora paradoxa,30,0,0
+8hzl_B,True,train_datasets/S-Processed-TRA.fasta,0.5578947368421052,SSTRAND_ID=CRW_00517; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=M67498; ORGANISM=Thermotoga maritima,95,0,0
+8u5j_A,True,train_datasets/S-Processed-TRA.fasta,0.6666666666666667,SSTRAND_ID=CRW_00142; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=M58822; ORGANISM=Listeria monocytogenes,31,0,0
+8u5t_A,True,train_datasets/S-Processed-TRA.fasta,0.5833333333333333,SSTRAND_ID=PDB_00142; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1ldz; ORGANISM=SYNTHETIC,30,0,0
+8umf_B,True,train_datasets/S-Processed-TRA.fasta,0.5346534653465347,SSTRAND_ID=ASE_00236; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=Onchorhynchus-sp-1.ct; ORGANISM=Onchorhynchus sp.,83,0,0
+8w35_C,True,train_datasets/S-Processed-TRA.fasta,0.5945945945945945,SSTRAND_ID=CRW_00116; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW; EXT_ID=AF015259; ORGANISM=Edwardsiella tarda,30,0,0
+8wcs_G,True,train_datasets/S-Processed-TRA.fasta,0.5909090909090908,SSTRAND_ID=ASE_00146; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=H.influenza.ct; ORGANISM=Haemophilus influenza,57,0,0

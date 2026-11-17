@@ -1,0 +1,2 @@
+structure_id,benchmark_length,dataset,split,source_file,source_length,longest_exact_segment_nt,benchmark_position_1based,source_position_1based
+8d28_A,33,StructureData,holdout,input_data/StructureData/holdout/PDB_00178.bpseq,33,31,1,1

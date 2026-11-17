@@ -1,0 +1,6 @@
+structure_id,benchmark_length,dataset,split,source_file,source_length,global_identity_levenshtein,length_ratio
+6t2c_V,34,StructureData,train,input_data/StructureData/train/PDB_00107.bpseq,31,0.735294,0.911765
+6t2c_V,34,StructureData,train,input_data/StructureData/train/PDB_00154.bpseq,31,0.705882,0.911765
+8d28_A,33,StructureData,holdout,input_data/StructureData/holdout/PDB_00178.bpseq,33,0.969697,1.0
+8d29_C,34,StructureData,holdout,input_data/StructureData/holdout/PDB_00178.bpseq,33,0.882353,0.970588
+8dk7_C,34,StructureData,holdout,input_data/StructureData/holdout/PDB_00178.bpseq,33,0.882353,0.970588
