@@ -1,0 +1,7 @@
+Metric,Max_absolute_difference,Mean_absolute_difference,Rows_different_over_1e-10,Agree_within_1e-8
+ECE_pooled,1.578983992167604e-10,8.77483907294844e-12,1,True
+ECE_equal_section_mixture,1.196360201877189e-09,6.646867219437277e-11,1,False
+Brier_pooled,1.6437409766645317e-10,9.132477181890882e-12,1,True
+LogLoss_pooled,7.214004948963293e-10,4.0080121320605774e-11,1,True
+Brier_mean_section,1.7353640746620158e-10,9.641239195889995e-12,1,True
+LogLoss_mean_section,7.616126063147988e-10,4.2312995699826196e-11,1,True

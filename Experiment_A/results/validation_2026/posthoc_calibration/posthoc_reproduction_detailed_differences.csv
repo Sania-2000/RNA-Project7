@@ -1,0 +1,19 @@
+scenario,predictor,correction,ECE_pooled_difference,ECE_equal_section_mixture_difference,Brier_pooled_difference,LogLoss_pooled_difference,Brier_mean_section_difference,LogLoss_mean_section_difference
+keep_7r6q_6,EternaFold,Isotonic (out-of-section),0.0,0.0,0.0,0.0,0.0,0.0
+keep_7r6q_6,EternaFold,Raw,0.0,0.0,0.0,0.0,0.0,0.0
+keep_7r6q_6,EternaFold,Temperature (out-of-section),1.578983992167604e-10,-1.196360201877189e-09,-1.6437409766645317e-10,-7.214004948963293e-10,-1.7353640746620158e-10,-7.616126063147988e-10
+keep_7r6q_6,LinearPartition-V,Isotonic (out-of-section),0.0,0.0,0.0,0.0,0.0,-1.1102230246251565e-16
+keep_7r6q_6,LinearPartition-V,Raw,0.0,0.0,0.0,0.0,0.0,0.0
+keep_7r6q_6,LinearPartition-V,Temperature (out-of-section),3.209932319947484e-14,-2.130240428499519e-14,-2.9976021664879227e-15,-3.552713678800501e-15,1.1102230246251565e-16,1.887379141862766e-15
+keep_7r6q_6,ViennaRNA,Isotonic (out-of-section),0.0,0.0,0.0,0.0,0.0,0.0
+keep_7r6q_6,ViennaRNA,Raw,0.0,0.0,0.0,0.0,0.0,0.0
+keep_7r6q_6,ViennaRNA,Temperature (out-of-section),-5.10702591327572e-15,-5.398459457239824e-15,-1.4988010832439613e-15,-4.9960036108132044e-15,-2.5951463200613034e-15,-1.0436096431476471e-14
+keep_7u0h_6,EternaFold,Isotonic (out-of-section),0.0,0.0,0.0,0.0,0.0,0.0
+keep_7u0h_6,EternaFold,Raw,0.0,0.0,0.0,0.0,0.0,0.0
+keep_7u0h_6,EternaFold,Temperature (out-of-section),-3.101685575046531e-15,-2.1399548799649892e-14,-2.8033131371785203e-15,-1.2156942119645464e-14,1.096345236817342e-15,3.885780586188048e-16
+keep_7u0h_6,LinearPartition-V,Isotonic (out-of-section),0.0,0.0,0.0,0.0,0.0,0.0
+keep_7u0h_6,LinearPartition-V,Raw,0.0,0.0,0.0,0.0,0.0,0.0
+keep_7u0h_6,LinearPartition-V,Temperature (out-of-section),-5.967448757360216e-16,-2.3196722320761864e-14,-2.581268532253489e-15,-1.8485213360008856e-14,9.992007221626409e-16,-7.771561172376096e-15
+keep_7u0h_6,ViennaRNA,Isotonic (out-of-section),0.0,0.0,0.0,0.0,0.0,0.0
+keep_7u0h_6,ViennaRNA,Raw,0.0,0.0,0.0,0.0,0.0,0.0
+keep_7u0h_6,ViennaRNA,Temperature (out-of-section),-7.799316747991725e-15,-4.6004866582904924e-15,-6.106226635438361e-16,-2.4980018054066022e-15,1.096345236817342e-15,7.216449660063518e-16

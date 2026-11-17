@@ -1,0 +1,15 @@
+Experiment A - post-hoc calibration verification
+Source: ExperimentA_50RNA_matched.csv
+Scenarios: keep_7r6q_6 and keep_7u0h_6
+Methods: Raw, temperature scaling, isotonic regression
+Validation: Leave-one-supplementary-section-out
+Compared metric records: 18
+Maximum absolute metric difference: approximately 1.20e-09
+Absolute comparison tolerance: 1e-08
+Result: PASS for reported metric table
+Evolutionary-family independence: not established
+Python: 3.13.18
+NumPy: 2.4.6
+pandas: 2.2.3
+SciPy: 1.16.3
+scikit-learn: 1.6.1
