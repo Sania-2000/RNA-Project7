@@ -1,0 +1,91 @@
+scenario,structure_id,supp_section,section_name,RNA_type,n_nucleotides,published_47_group_id,Rfam_family,family_disjoint_proven,EternaFold_training_independence_proven,interpretation
+keep_7r6q_6,1ykv_D,4.4,Diels-Alder ribozyme,Ribozymes,31,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,1yls_D,4.4,Diels-Alder ribozyme,Ribozymes,31,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,3p22_A,7.5,ENE,Miscellaneous,40,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,5bjo_Y,1.10,Corn aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,5btm_A,5.3,r(AUUCU),Repeats,43,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,5dea_C,6.5,Synthetic G-quadruplex,Miscellaneous (synthetic),35,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,5voe_A,1.16,11F7t aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6aay_B,2.4,Cas13 guide,CRISPR guides,59,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6az4_A,6.3,Synthetic hairpin,Miscellaneous (synthetic),21,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6b14_R,1.4,Spinach aptamer,Aptamers,83,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6b3k_R,1.4,Spinach aptamer,Aptamers,83,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6c65_B,1.5,Mango aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6d3p_A,7.7,SCNMV xrRNA,Miscellaneous,45,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6dtd_C,2.4,Cas13 guide,CRISPR guides,37,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6dvk_H,6.4,Synthetic tetraloop-tetraloop receptor,Miscellaneous (synthetic),95,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6e8s_B,1.5,Mango aptamer,Aptamers,38,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6e8t_D,1.5,Mango aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6e8u_B,1.5,Mango aptamer,Aptamers,37,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6rti_X,1.13,A9g aptamer,Aptamers,43,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6sy4_C,1.17,K1 aptamer,Aptamers,38,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6w2t_A,3.2,CrPV 5’UTR IRES,IRES,339,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6wbr_B,2.1,Cas9 guide,CRISPR guides,74,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,6xjq_A,4.3,Self-alkylating ribozyme,Ribozymes,58,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,7dlz_Y,4.5,Methyltransferase ribozyme,Ribozymes,45,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,7el1_B,2.1,Cas9 guide,CRISPR guides,53,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,7eoh_A,1.8,Pepper aptamer,Aptamers,49,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,7jnh_B,7.5,ENE,Miscellaneous,86,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,7jrr_A,6.1,Nanoarchitecture 1,Miscellaneous (synthetic),51,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,7jrs_A,6.2,Nanoarchitecture 2,Miscellaneous (synthetic),129,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,7ljy_B,7.5,ENE,Miscellaneous,76,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,7oax_D,1.9,Chili aptamer,Aptamers,52,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,7r6q_6,7.4,ITS-2,Miscellaneous,87,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,7v9e_A,4.5,Methyltransferase ribozyme,Ribozymes,68,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8dc2_B,2.3,Cas12 guide,CRISPR guides,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8ewg_B,2.4,Cas13 guide,CRISPR guides,57,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8eyu_B,1.14,Beetroot aptamer,Aptamers,49,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8f0n_B,1.14,Beetroot aptamer,Aptamers,49,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8hud_B,2.1,Cas9 guide,CRISPR guides,52,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8hze_B,1.12,Clivia aptamer,Aptamers,35,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8hzl_B,1.12,Clivia aptamer,Aptamers,84,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8u5j_A,1.5,Mango aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8u5t_A,1.5,Mango aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8umf_B,2.1,Cas9 guide,CRISPR guides,101,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8w35_C,7.2,Structured part of acrIF8-aca2 5’ UTR,Miscellaneous,37,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7r6q_6,8wcs_G,2.4,Cas13 guide,CRISPR guides,66,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,1ykv_D,4.4,Diels-Alder ribozyme,Ribozymes,31,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,1yls_D,4.4,Diels-Alder ribozyme,Ribozymes,31,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,3p22_A,7.5,ENE,Miscellaneous,40,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,5bjo_Y,1.10,Corn aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,5btm_A,5.3,r(AUUCU),Repeats,43,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,5dea_C,6.5,Synthetic G-quadruplex,Miscellaneous (synthetic),35,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,5voe_A,1.16,11F7t aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6aay_B,2.4,Cas13 guide,CRISPR guides,59,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6az4_A,6.3,Synthetic hairpin,Miscellaneous (synthetic),21,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6b14_R,1.4,Spinach aptamer,Aptamers,83,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6b3k_R,1.4,Spinach aptamer,Aptamers,83,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6c65_B,1.5,Mango aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6d3p_A,7.7,SCNMV xrRNA,Miscellaneous,45,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6dtd_C,2.4,Cas13 guide,CRISPR guides,37,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6dvk_H,6.4,Synthetic tetraloop-tetraloop receptor,Miscellaneous (synthetic),95,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6e8s_B,1.5,Mango aptamer,Aptamers,38,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6e8t_D,1.5,Mango aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6e8u_B,1.5,Mango aptamer,Aptamers,37,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6rti_X,1.13,A9g aptamer,Aptamers,43,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6sy4_C,1.17,K1 aptamer,Aptamers,38,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6w2t_A,3.2,CrPV 5’UTR IRES,IRES,339,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6wbr_B,2.1,Cas9 guide,CRISPR guides,74,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,6xjq_A,4.3,Self-alkylating ribozyme,Ribozymes,58,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,7dlz_Y,4.5,Methyltransferase ribozyme,Ribozymes,45,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,7el1_B,2.1,Cas9 guide,CRISPR guides,53,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,7eoh_A,1.8,Pepper aptamer,Aptamers,49,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,7jnh_B,7.5,ENE,Miscellaneous,86,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,7jrr_A,6.1,Nanoarchitecture 1,Miscellaneous (synthetic),51,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,7jrs_A,6.2,Nanoarchitecture 2,Miscellaneous (synthetic),129,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,7ljy_B,7.5,ENE,Miscellaneous,76,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,7oax_D,1.9,Chili aptamer,Aptamers,52,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,7u0h_6,7.4,ITS-2,Miscellaneous,87,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,7v9e_A,4.5,Methyltransferase ribozyme,Ribozymes,68,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8dc2_B,2.3,Cas12 guide,CRISPR guides,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8ewg_B,2.4,Cas13 guide,CRISPR guides,57,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8eyu_B,1.14,Beetroot aptamer,Aptamers,49,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8f0n_B,1.14,Beetroot aptamer,Aptamers,49,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8hud_B,2.1,Cas9 guide,CRISPR guides,52,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8hze_B,1.12,Clivia aptamer,Aptamers,35,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8hzl_B,1.12,Clivia aptamer,Aptamers,84,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8u5j_A,1.5,Mango aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8u5t_A,1.5,Mango aptamer,Aptamers,36,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8umf_B,2.1,Cas9 guide,CRISPR guides,101,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8w35_C,7.2,Structured part of acrIF8-aca2 5’ UTR,Miscellaneous,37,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
+keep_7u0h_6,8wcs_G,2.4,Cas13 guide,CRISPR guides,66,NOT AVAILABLE,NOT VERIFIED,NO,NO,Supplement section proxy; not validated evolutionary family
