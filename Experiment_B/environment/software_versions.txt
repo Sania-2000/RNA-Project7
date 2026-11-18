@@ -1,0 +1,17 @@
+Student 2 - Software versions
+=============================
+
+Date: 2026-11-18
+
+ViennaRNA:
+RNAfold 2.8.0
+
+Python:
+Python 3.11.18
+
+Git:
+git version 2.53.0
+
+CD-HIT:
+		====== CD-HIT version 4.8.1 (built on Apr 24 2025) ======
+
