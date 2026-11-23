@@ -15,3 +15,12 @@ git version 2.53.0
 CD-HIT:
 		====== CD-HIT version 4.8.1 (built on Apr 24 2025) ======
 
+
+LinearPartition-V:
+Source revision: b450fb3e63189073b68d385589035f992080aa3a
+Executable: tools/LinearPartition/linearpartition
+
+EternaFold:
+Source revision: 87b9aac55cee14fd562049d08f7b92d3131f10ce
+Executable: tools/EternaFold/src/contrafold
+Parameters: EternaFoldParams.v1
