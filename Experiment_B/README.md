@@ -181,8 +181,18 @@ directory, with input and intermediate files under `large_scale/`.
 The original Ribonanza dataset and large intermediate prediction
 files are not stored in this GitHub repository.
 
-The exact procedure that added cluster metadata to produce
-`prediction_inventory_20739.csv` still needs to be documented.
-The final inventory itself has been verified against the
-combined QC-passing dataset.
 
+
+### Reconstructing the prediction inventory
+
+The script build_prediction_inventory.py joins the final QC-passing
+RNA dataset with CD-HIT cluster membership using sequence_id.
+It reconstructs prediction_inventory_20739.csv for 20,739 RNAs.
+The reconstructed inventory was verified to match the original
+in every column and value.
+
+Verification command (from the repository root):
+
+    python Experiment_B/scripts/build_prediction_inventory.py ~/RNA_Project7/large_scale
+
+The script checks an existing inventory without overwriting it.
